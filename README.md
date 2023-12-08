@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Madhumithakv
-- 👀 I’m interested in 
+- 👀 I’m interested in web development
 - 🌱 I’m currently doing computer science and engineering in Mailam engineering college 
-- 💞️ I’m looking to collaborate
+
 
 
 <!---
