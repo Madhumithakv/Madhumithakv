@@ -2,7 +2,9 @@
 - 🌱 I'm learning and working on Java, HTML, CSS, JavaScript, and SQL.
 - 📖 Writing a blog every day in Java.
 - 🎯 Aspiring to enhance my web development and coding skills.
-- 🧑‍💻 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 🧑‍💻 [LinkedIn Profile](www.linkedin.com/in/
+madhumithakumar-a68328251
+)
 
 
 
