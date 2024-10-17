@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Madhumithakv
-- 👀 I’m interested in web development
-- 🌱 I’m currently doing computer science and engineering in Mailam engineering college 
+# Hi, I'm Madhumitha 👋
+- 🌱 I'm learning and working on Java, HTML, CSS, JavaScript, and SQL.
+- 📖 Writing a blog every day in Java.
+- 🎯 Aspiring to enhance my web development and coding skills.
+- 🧑‍💻 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 
 
