@@ -1,6 +1,5 @@
-# Hi, I'm Madhumitha 👋
+![image](https://github.com/user-attachments/assets/498ed133-397c-4847-9ae9-c79e2388a165)# Hi, I'm Madhumitha 👋
 - 🌱 I'm learning and working on Java, HTML, CSS, JavaScript, and SQL.
-- 📖 Writing a blog every day in Java.
 - 🎯 Aspiring to enhance my web development and coding skills.
 
 
